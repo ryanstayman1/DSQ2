@@ -2,27 +2,7 @@
     "presets": [
         {
             "name": "Ryxnn",
-            "config": ""
-        },
-                {
-            "name": "",
-            "config": ""
-        },
-                {
-            "name": "",
-            "config": ""
-        },
-                {
-            "name": "",
-            "config": ""
-        },
-                {
-            "name": "",
-            "config": ""
-        },
-                {
-            "name": "",
-            "config": ""
-        },    
+            "config": "blackyballs"
+        } 
     ]
 }
