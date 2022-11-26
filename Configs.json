@@ -2,7 +2,7 @@
     "presets": [
         {
             "name": "n0ah",
-            "config": ""
+            "config": "true:14:false:Default:false:false:Down:At targets:180:0:0:Center:0:0:Jitter:0:60:60:false:0:true:Down:At targets:180:-12:24:Center:30:30:Jitter:0:60:60:false:0:true:Down:At targets:180:0:0:Center:0:0:Jitter:0:60:60:false:0:true:Down:At targets:180:0:10:Center:63:60:Jitter:0:43:44:true:0:true:Down:Local view:180:1:14:Center:60:60:Jitter:0:50:50:false:0:false:Off:Local view:Off:0:0:Off:0:0:Off:0:60:60:false:0:false:Off:Local view:Off:0:0:Off:0:0:Off:0:60:60:false:0:false:Off:Local view:Off:0:0:Off:0:0:Off:0:60:60:false:0"
         } 
     ]
 }
